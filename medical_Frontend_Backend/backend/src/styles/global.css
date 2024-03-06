@@ -1,0 +1,130 @@
+/* 默认按钮 */
+.el-button--primary{
+    /* font-size: 17px; */
+}
+
+/* 小按钮 */
+.el-button--mini{
+    /* font-size: 17px; */
+}
+
+/* 输入框 */
+input[type='text'], .el-date-editor .el-range-input, input[type='password']{
+    /* font-size: 17px; */
+}
+
+/* 查询框自定义 */
+.search-cond > span{
+    /* font-size: 17px; */
+}
+
+/* 左侧菜单 */
+.el-menu-item{
+    /* font-size: 18px; */
+}
+
+/* 日历范围 */
+.tags-view-container .tags-view-wrapper .tags-view-item{
+    /* font-size: 15px; */
+}
+
+/* icon */
+.el-date-editor .el-range__icon{
+    /* font-size: 16px; */
+}
+
+/* 日历控件左侧 */
+.el-picker-panel__shortcut{
+    /* font-size: 17px; */
+}
+
+/* 表格内容大小 */
+.el-table .cell{
+    /* font-size: 17px; */
+}
+
+/* 日历上面的日期字体 */
+.el-date-range-picker__header div{
+    /* font-size: 20px; */
+}
+
+/* 日历日期尺寸 */
+.el-date-table{
+    /* font-size: 16px; */
+}
+
+/* Dialog头部标题 */
+.el-dialog__header{
+    /* font-size: 17px; */
+}
+
+/* 共 xx 条 */
+.el-pagination span:not([class*=suffix]){
+    /* font-size: 17px; */
+}
+
+/* 下拉列表选项 */
+.el-select-dropdown__item{
+    /* font-size: 17px; */
+}
+
+/* 下拉框选中项 */
+.el-pagination__sizes .el-input .el-input__inner{
+    /* font-size: 17px; */
+}
+
+/* 抽屉标题大小 */
+.el-drawer__header{
+    /* font-size: 18px; */
+}
+
+/* Dialog 标题 */
+.el-dialog__title{
+    /* font-size: 20px; */
+}
+
+/* 编辑输入框标题 */
+.el-form-item__label{
+    /* font-size: 20px; */
+}
+
+/* 标记输入框复选框 */
+.el-checkbox__label,
+.el-radio__label,
+.el-textarea__inner,
+.el-form-item__error,
+.el-upload__tip,
+a, a:focus, a:hover{
+    /* font-size: 20px; */
+}
+
+.el-divider__text{
+    /* font-size: 17px; */
+}
+
+.el-dropdown-menu--medium .el-dropdown-menu__item{
+    /* font-size: 18px; */
+}
+
+/* 抽屉标题大小 */
+.el-drawer__header{
+    /* font-size: 24px; */
+    margin-bottom: 5px;
+}
+
+.el-drawer__close-btn{
+    /* font-size: 45px; */
+}
+
+/* 警示框 */
+.el-alert__title{
+    /* font-size: 20px; */
+}
+
+.el-alert .el-alert__description{
+    /* font-size: 18px; */
+}
+
+.el-drawer__body > span{
+    /* font-size: 20px; */
+}
